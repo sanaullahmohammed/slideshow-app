@@ -1,5 +1,5 @@
 # Slideshow App
-A simple slide show app made as part of an hiring assignment 
+A simple [Slideshow App](https://sanaullahmohammed.github.io/slideshow-app/) made as part of an hiring assignment 
 
 ## Task
 
